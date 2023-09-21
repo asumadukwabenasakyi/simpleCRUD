@@ -1,5 +1,3 @@
-// src/reducers/someReducer.js
-
 // Define your initial state
 const initialState = {
    data: [],

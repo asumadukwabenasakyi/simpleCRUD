@@ -1,4 +1,3 @@
-// reducers/index.js
 import { combineReducers } from 'redux';
 import someReducer from './someReducer'; // Import your individual reducers
 
